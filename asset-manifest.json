@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Rasikh-Altaf-Portfolio/static/css/main.c55bdca2.css",
+    "main.js": "/Rasikh-Altaf-Portfolio/static/js/main.f32ad59e.js",
+    "static/media/MyImage.jpg": "/Rasikh-Altaf-Portfolio/static/media/MyImage.588ca46f4e3ea59caeb3.jpg",
+    "index.html": "/Rasikh-Altaf-Portfolio/index.html",
+    "main.c55bdca2.css.map": "/Rasikh-Altaf-Portfolio/static/css/main.c55bdca2.css.map",
+    "main.f32ad59e.js.map": "/Rasikh-Altaf-Portfolio/static/js/main.f32ad59e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55bdca2.css",
+    "static/js/main.f32ad59e.js"
+  ]
+}
